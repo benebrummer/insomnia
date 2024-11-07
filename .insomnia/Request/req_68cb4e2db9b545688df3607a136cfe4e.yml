@@ -1,9 +1,9 @@
 _id: req_68cb4e2db9b545688df3607a136cfe4e
 type: Request
 parentId: fld_886fafe1e0cc481696134e99622e9721
-modified: 1730976120542
+modified: 1730977218967
 created: 1730976094698
-url: localhost:9191/path
+url: localhost:9191/path {% pathParam '', '', '', true %}
 name: another
 description: ""
 method: GET
