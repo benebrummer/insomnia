@@ -47,7 +47,7 @@
         "parentId": "wrk_155d584750cb4de795d33ced6ed747b1",
         "modified": 1730974758077,
         "created": 1730974750804,
-        "url": "localhost:8080/test",
+        "url": "localhost:8080/test/2",
         "name": "New Request",
         "description": "",
         "method": "GET",
