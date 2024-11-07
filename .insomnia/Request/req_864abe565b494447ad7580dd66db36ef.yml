@@ -3,7 +3,7 @@ type: Request
 parentId: wrk_155d584750cb4de795d33ced6ed747b1
 modified: 1730975780849
 created: 1730974750804
-url: localhost:8080/test/1234
+url: localhost:8080/test/1234/test
 name: New Request
 description: ""
 method: GET
