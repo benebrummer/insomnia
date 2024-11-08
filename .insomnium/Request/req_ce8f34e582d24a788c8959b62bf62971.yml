@@ -1,0 +1,24 @@
+_id: req_ce8f34e582d24a788c8959b62bf62971
+type: Request
+parentId: fld_8015cd80bad9472d81c9571e5569b3e3
+modified: 1731049405423
+created: 1731049382800
+url: google.com
+name: empyt
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1731049399642
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
