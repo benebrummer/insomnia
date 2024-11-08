@@ -1,0 +1,24 @@
+_id: req_e040db617c5547a99429a91ecf844cbf
+type: Request
+parentId: wrk_155d584750cb4de795d33ced6ed747b1
+modified: 1731049004755
+created: 1731048996536
+url: another.request.com
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1731048996536
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
