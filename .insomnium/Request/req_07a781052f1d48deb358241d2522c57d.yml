@@ -1,0 +1,24 @@
+_id: req_07a781052f1d48deb358241d2522c57d
+type: Request
+parentId: wrk_702388a730904d1fb981d1cc15d017b4
+modified: 1731050356497
+created: 1731050347503
+url: ""
+name: test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnium/0.2.3-a
+authentication: {}
+metaSortKey: -1731050347503
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
+segmentParams: []
